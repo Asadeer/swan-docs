@@ -113,7 +113,7 @@ POST数据| Json结构
     "reduceCost":10,
     "baseInfo":{
         "title":"卡券标题",
-        "color":"B10",
+        "color":"B080",
         "getLimit":3,
         "dateInfo":{
             "getStartTimestamp":1574952776,
